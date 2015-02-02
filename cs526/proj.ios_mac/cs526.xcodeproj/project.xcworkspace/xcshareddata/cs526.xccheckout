@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6BFC1C4E-AED0-4C36-A263-AC58FE1EDCB6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cs526</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>99E05F316B22E06937586A1AB27D9CFD09DBF898</key>
+		<string>https://github.com/darrencheng0817/cs526.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cs526/proj.ios_mac/cs526.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>99E05F316B22E06937586A1AB27D9CFD09DBF898</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/darrencheng0817/cs526.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>99E05F316B22E06937586A1AB27D9CFD09DBF898</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>99E05F316B22E06937586A1AB27D9CFD09DBF898</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cs526</string>
+		</dict>
+	</array>
+</dict>
+</plist>
